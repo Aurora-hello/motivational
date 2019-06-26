@@ -1,5 +1,7 @@
-"files": {
+{
+  "files": {
     "index.js": "2a71134fca879c7d31008e0153cc9cd7ae71d2408bdcc11607804356b941d52a",
     "messages.json": "f84bbac4f465c95f8dc9d2584586b4932297aebc5dfc5396907ef2a0e260ab7d",
     "module.json": "599c962832ed1e6822637fde219ebe8593d831eb52a516560548d5c4edd631d3"
+  }
 }
