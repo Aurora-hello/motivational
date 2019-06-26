@@ -3,5 +3,5 @@
     "author": "Aurora",
     "description": "Credits to Caali and Salty for the actual code",
     "version": "1.0",
-    "servers": "https://raw.githubusercontent.com/Aurora-hello/motivational/master/"
+    "servers":  ["https://raw.githubusercontent.com/Aurora-hello/motivational/master/"]
 }
